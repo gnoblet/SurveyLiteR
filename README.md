@@ -100,9 +100,9 @@ so <- kobo_select_one(design, "h_2_type_latrine", survey, choices)
 ```
 
 The analysis run with the `kobo_select_one()` function returns a data
-frame with labels with a row per category of the variable, along with
-the weighted proportion, confidence intervals, unweighted counts, number
-of missing values, etc.. Here is a preview of the output:
+frame with labels and a row per category, along with the weighted
+proportion, confidence intervals, unweighted counts, number of missing
+values, etc.. Here is a preview of the output:
 
 ``` r
 so[, .(var_value, stat, stat_low, stat_upp, n_unw)] |> head(5)
