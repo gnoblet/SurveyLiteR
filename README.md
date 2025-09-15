@@ -461,3 +461,5 @@ choices and the type of question.
     [GitHub](https://github.com/gnoblet/SurveyLiteR/issues)—please with
     MWE.
 -   💬 Feature requests goes there too.
+-   Feel free to reach out on Bluesky or Linkedin (@gnoblet) for
+    questions or help.
