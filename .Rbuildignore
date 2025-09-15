@@ -1,0 +1,13 @@
+^renv$
+^renv\.lock$
+^.*\.Rproj$
+^\.Rproj\.user$
+^LICENSE.md
+^data-raw$
+^README\.Rmd$
+^\.github$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^[.]?air[.]toml$
+^\.vscode$

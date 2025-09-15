@@ -1,0 +1,33 @@
+Package: SurveyLiteR
+Title: Analyzing survey data (collected with Kobo)
+Version: 1.0.0
+Authors@R: c(
+     person("Noblet", "Guillaume", email = "gnoblet@zaclys.net", role = c("aut", "cre"))
+  )
+Description: Providing helpers to support a (quasi-)automated survey data analysis workflow.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE, packages = "roxytypes")
+RoxygenNote: 7.3.3
+Imports: 
+    purrr (>= 1.0.0),
+    data.table,
+    glue,
+    srvyr,
+    stats,
+    rlang (>= 0.4.11),
+    stringr,
+    tidyselect,
+    checkmate
+Remotes: 
+Depends: 
+    R (>= 4.1.0)
+LazyData: true
+Suggests: 
+    rmarkdown,
+    testthat (>= 3.0.0),
+    roxytypes
+URL: https://github.com/gnoblet/SurveyLiteR
+Config/testthat/edition: 3
+Config/Needs/documentation: 
+    roxytypes
