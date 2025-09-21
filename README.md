@@ -2,7 +2,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-<a href="https://gnoblet.github.io/SurveyLiteR/"><img src="man/figures/logo.svg" align="right" height="139" alt="SurveyLiteR website" /></a>
+# SurveyLiteR <a href="https://gnoblet.github.io/SurveyLiteR/"><img src="man/figures/logo.svg" align="right" height="139" alt="SurveyLiteR website" /></a>
 
 <!-- badges: start -->
 
